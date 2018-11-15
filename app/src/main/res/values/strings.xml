@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">DemoRestaurant</string>
+
+    <!--registraion and login-->
+    <string name="login">Login</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="register_now">Register Now</string>
+    <string name="already_mem">Already a member ? </string>
+    <string name="login_now">Login Now</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_pwd">Enter Password</string>
+    <string name="hint_repwd">Re-enter Password</string>
+    <string name="hint_mob">Mobile Number</string>
+    <string name="register">Register</string>
+    <!--internet connection check-->
+    <string name="connect_internet">Connected to Internet</string>
+    <string name="sorry_nointernet">Sorry! Not connected to internet</string>
+    <string name="base_url">BASE URL OF API</string>
+
+    <!--navigationDrawer-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Menu item texts -->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_notifications">Notifications</string>
+
+    <string name="item_0">Home</string>
+    <string name="item_1">Offers</string>
+    <string name="item_2">Starter</string>
+    <string name="item_3">South Indian</string>
+    <string name="item_4">North Indian</string>
+    <string name="item_5">Desserts</string>
+    <string name="item_6">Drinks</string>
+    <string name="item_7">More</string>
+
+    <string name="my_profile">My Profile</string>
+    <string name="my_rewards">My Rewards</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_cart">My Cart</string>
+    <string name="my_account">My Account</string>
+
+    <string name="help_support">Help \u0026 Support</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="terms_conditions">Terms \u0026 Conditions</string>
+    <string name="help_center">Help Center</string>
+
+    <string name="search_hint">Search for Food</string>
+    <string name="update_details">Update Details</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="log_out">Log out</string>
+
+    <!--Contact Us-->
+    <string name="call_us_at">Call us at :</string>
+    <string name="contact_num">+91 9845184444</string>
+    <string name="email_us_at">Email us at :</string>
+    <string name="contact_email">info@gmediasolutions.in</string>
+
+    <!--checkout mencu-->
+    <string name="checkout_your_name">Your Name</string>
+    <string name="checkout_address">Your Address</string>
+    <string name="checkout_city">Your City</string>
+    <string name="checkout_province">Your Province</string>
+    <string name="checkout_email">Your Email</string>
+    <string name="checkout_set_date">Select Date</string>
+    <string name="checkout_set_time">Select Time</string>
+    <string name="checkout_phone_number">Phone Number</string>
+    <string name="checkout_order_list">Order List</string>
+    <string name="checkout_add_comment">Comment (Optional)</string>
+    <string name="checkout_send_order">Make Payment</string>
+    <string name="form_alert">Please, complete the form first.</string>
+    <string name="sending_alert">Sending data. Please wait &#8230;</string>
+    <string name="ok_alert">Your Order has been successfully sent.</string>
+    <string name="failed_alert">Your Order has not been sent.</string>
+    <string name="order_alert">You have not ordered yet</string>
+    <string name="no_order_menu">No order</string>
+    <string name="enter_phn">Enter Mobile No.</string>
+
+
+    <string name="order_confirm">Order Confirmation</string>
+    <string name="thank_order">Thank you for placing your order with us.</string>
+    <string name="contact_order">For any query, Please contact to our customer support</string>
+    <string name="continue_shopping">Continue Shopping</string>
+
+</resources>
